@@ -1,0 +1,13 @@
+{
+  "name": "pohyliakjs2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "sass": "node-sass -w scss/ -o css/ --recursive",
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "Pohyliak Oleksandra",
+  "license": "ISC"
+}
